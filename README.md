@@ -17,14 +17,16 @@
 
 **Education and Impact**
   - I own "Matemática com o EDSON", a YouTube channel with 40,000+ subscribers and 3.0M+ views. I simplify complex engineering and math concepts to inspire critical thinking and educational reform.
-  - Additionally, I manage a secondary YouTube channel, "A Última Camada", currently with 4,000+ subscribers. This channel is dedicated to the deep-dive study of Pentesting and Hacking, where I share advanced security insights, document my learning process, and foster a community of aspiring ethical hackers.
+  - Additionally, I manage a secondary YouTube channel, "Nicolas Pauferro", currently with 4,000+ subscribers. This channel is dedicated to the deep-dive study of Pentesting and Hacking, where I share advanced security insights, document my learning process, and foster a community of aspiring ethical hackers.
 
-**Tech Stack and Certifications**
-  - Languages: Python, TypeScript, C and PHP.
-  - Tools: Linux, Wireshark, Metasploit, Burp Suite, ffuf and others.
-  - Certs: Cisco Cyber Threat Management, THM Junior Pentester, THM Red Teaming, THM SOC Analyst.
 
-###
+
+**Some Stuff i build**
+  - [Lawliet Forensics](https://github.com/NicolasPauferro/lawliet-forensics) - My Own file carver that can retrieve hidden files in storage devices, it works better than all default file carving tools
+  - [Bangu Shopping CTF](https://github.com/NicolasPauferro/Bangu-Shopping-CTF) - That's the first CTF that i developed, i was learning PHP when i did it!
+
+
+
 
 **Some of my social medias**
 
@@ -36,10 +38,12 @@
 
 ###
 
-**Some Stuff i build**
-  - [Lawliet Forensics](https://github.com/NicolasPauferro/lawliet-forensics) - My Own file carver that can retrieve hidden files in storage devices, it works better than all default file carving tools
-  - [Bangu Shopping CTF](https://github.com/NicolasPauferro/Bangu-Shopping-CTF) - That's the first CTF that i developed, i was learning PHP when i did it!
+**Tech Stack and Certifications**
+  - Languages: Python, TypeScript, C and PHP.
+  - Tools: Linux, Wireshark, Metasploit, Burp Suite, ffuf and others.
+  - Certs: Cisco Cyber Threat Management, THM Junior Pentester, THM Red Teaming, THM SOC Analyst.
 
+###
 
 
 <picture>
