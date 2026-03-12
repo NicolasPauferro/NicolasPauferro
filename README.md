@@ -45,6 +45,15 @@
 
 ###
 
+<div align="center">
+<img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPauferro&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github Stats"
+      />
+
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasPauferro/NicolasPauferro/output/pacman-contribution-graph-dark.svg">
