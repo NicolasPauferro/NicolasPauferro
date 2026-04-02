@@ -23,7 +23,6 @@
 
 **Some Stuff i build**
   - [Lawliet Forensics](https://github.com/NicolasPauferro/lawliet-forensics) - My Own file carver that can retrieve hidden files in storage devices, it works better than all default file carving tools
-  - [Azimute](https://github.com/NicolasPauferro/azimute) - My password manager that i build using Docker, PHP and PostgreSQL. it uses assymetric cryptography and i built that because i really needed a password manager that didn't stored my passwords in plain text
   - [Bangu Shopping CTF](https://github.com/NicolasPauferro/Bangu-Shopping-CTF) - That's the first CTF that i developed, i was learning PHP when i did it!
   - [AndroidDraw](https://github.com/NicolasPauferro/AndroidDraw) - A fork of Excalidraw built for running at android mobile devices.
 
