@@ -1,49 +1,114 @@
-<h2 align="center">Hi, my name is Nicolas Pauferro (🇧🇷)</h2>
-
-###
+<h2 align="center">Hi, I'm Nicolas Pauferro (🇧🇷)</h2>
 
 <div align="center">
   <img height="322" src="https://matematicacomoedson.com/urahara4.gif"  />
 </div>
 
-###
+---
 
-- I am an Engineering student at ITA (Instituto Tecnológico de Aeronáutica) with a deep-rooted passion for Cybersecurity, Digital Forensics, and Ethical Hacking.
-  
-**Technical Focus**
-  - Offensive Security: Top 11 on TryHackMe Brazil, Junior Pentester and Web Application Pentesting specialist.
-  - Digital Forensics: Developer of Lawliet, a custom File Carver for raw disk images using Python and Flask.
-  - Full-Stack Development: Experience building secure architectures, including a dedicated educational platform for students using PostgreSQL and discord and hotmart integrations for the backend and React Vite for the frontend.
+## 🚀 Who am I?
 
-**Education and Impact**
-  - I own "Matemática com o EDSON", a YouTube channel with 40,000+ subscribers and 3.0M+ views. I simplify complex engineering and math concepts to inspire critical thinking and educational reform.
-  - Additionally, I manage a secondary YouTube channel, "Nicolas Pauferro", currently with 4,000+ subscribers. This channel is dedicated to the deep-dive study of Pentesting and Hacking, where I share advanced security insights, document my learning process, and foster a community of aspiring ethical hackers.
+I break systems. I build systems. I teach people how to actually understand systems.
+
+- 🛩️ Aerospace Engineering student at **ITA** (Brazil’s most selective engineering institute)  
+- 🛡️ **Cybersecurity Researcher** with a **High Severity CVE**  
+- 💻 Full-Stack Developer (**Laravel & Node.js**)  
+- 🏅 **Top 10 Brazil on TryHackMe**  
+
+---
+
+## 🛡️ Cybersecurity
+
+I specialize in **Web Application Security and Offensive Security**, focusing on real-world vulnerabilities.
+
+- 🔍 Discovered and responsibly disclosed a **High severity CVE**
+- 🧠 Strong focus on exploitation, attack surfaces, and system weaknesses  
+- ⚔️ Active TryHackMe player (**Top 10 Brazil**)  
+
+I don’t just solve labs, i go after real systems.
+
+- [CVE's that i disclosured](https://github.com/NicolasPauferro/CVE)  
 
 
+---
 
-**Some Stuff i build**
-  - [Lawliet Forensics](https://github.com/NicolasPauferro/lawliet-forensics) - My Own file carver that can retrieve hidden files in storage devices, it works better than all default file carving tools
-  - [Bangu Shopping CTF](https://github.com/NicolasPauferro/Bangu-Shopping-CTF) - That's the first CTF that i developed, i was learning PHP when i did it!
-  - [AndroidDraw](https://github.com/NicolasPauferro/AndroidDraw) - A fork of Excalidraw built for running at android mobile devices.
+## ⚙️ Builder Mindset
 
+If I can break it, I can build it better.
 
+- 💡 Full-stack developer using **Laravel, Node.js, React, PostgreSQL**
+- 🚀 Built a **Educational platform for students** (from scratch, React + PostgreSQL with Discord and Hotmart integrations)
+- 🔐 Focused on **secure architectures and scalable systems**
 
-**Some of my social medias**
+---
 
-  - [My Main Youtube Channel](https://www.youtube.com/@matematicacomedson)
-  - [My Linkedin](https://www.linkedin.com/in/nicolas-pauferro-b943a2282/)
-  - [My Professional Instagram](https://www.instagram.com/edson_da_matematica)
-  - [My TryHackMe Profile](https://tryhackme.com/p/Edsonmatematico)
-  - [My Secondary Youtube Channel](https://www.youtube.com/channel/UCTGaVCxVH0AhvnFZ1Z-C7JQ)
+## 🧪 Digital Forensics
 
-###
+- 🧬 Creator of **Lawliet Forensics**  
+  A custom file carver for raw disk images built with Python + Flask  
+  Designed to recover hidden data more efficiently than traditional tools  
 
-**Tech Stack and Certifications**
-  - Languages: Python, TypeScript, C and PHP.
-  - Tools: Linux, Wireshark, Metasploit, Burp Suite, ffuf and others.
-  - Certs: Cisco Cyber Threat Management, THM Junior Pentester, THM Red Teaming, THM SOC Analyst.
+---
 
-###
+## 📺 Education & Content
+
+I don’t just learn, i also teach.
+
+- 📊 Creator of **"Matemática com o EDSON"**
+  - 40,000+ subscribers  
+  - 3M+ views  
+  - Focus: making people *actually understand* math  
+
+- 🧠 Secondary channel focused on **Technology, Pentesting & Cybersecurity**
+  - Deep dives, practical security, real learning process  
+
+My goal is simple:  
+Make people stop memorizing and start thinking.
+
+---
+
+## 🔥 Projects
+
+- [Lawliet Forensics](https://github.com/NicolasPauferro/lawliet-forensics)  
+  → Custom file carver for recovering hidden files from raw storage  
+
+- [Bangu Shopping CTF](https://github.com/NicolasPauferro/Bangu-Shopping-CTF)  
+  → My first CTF challenge (built while learning PHP)  
+
+- [AndroidDraw](https://github.com/NicolasPauferro/AndroidDraw)  
+  → Excalidraw fork adapted for Android devices  
+
+---
+
+## 🌐 Connect with me
+
+- 🎥 [Main YouTube Channel](https://www.youtube.com/@matematicacomedson)  
+- 🧠 [Secondary YouTube Channel (Cybersecurity)](https://www.youtube.com/channel/UCTGaVCxVH0AhvnFZ1Z-C7JQ)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-pauferro-b943a2282/)  
+- 📸 [Instagram](https://www.instagram.com/edson_da_matematica)  
+- 🛡️ [TryHackMe](https://tryhackme.com/p/Edsonmatematico)  
+
+---
+
+## ⚒️ Tech Stack
+
+- **Languages:** Python, TypeScript, C, PHP and Shell script 
+- **Backend:** Laravel, Node.js  
+- **Frontend:** React (Vite), PHP 
+- **Database:** PostgreSQL  
+- **Security Tools:** Wireshark, Metasploit, Burp Suite, ffuf and others
+- **Environment:** Linux  
+
+---
+
+## 📜 Certifications
+
+- Cisco Cyber Threat Management  
+- TryHackMe Junior Pentester  
+- TryHackMe Web Application Pentesting  
+- TryHackMe Web Fundamentals  
+
+---
 
 <div align="center">
 <img
@@ -51,14 +116,12 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPauferro&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github Stats"
       />
-
 </div>
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasPauferro/NicolasPauferro/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicolasPauferro/NicolasPauferro/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NicolasPauferro/NicolasPauferro/output/pacman-contribution-graph.svg">
 </picture>
-
-###
