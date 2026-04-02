@@ -42,14 +42,6 @@ If I can break it, I can build it better.
 
 ---
 
-## 🧪 Digital Forensics
-
-- 🧬 Creator of **Lawliet Forensics**  
-  A custom file carver for raw disk images built with Python + Flask  
-  Designed to recover hidden data more efficiently than traditional tools  
-
----
-
 ## 📺 Education & Content
 
 I don’t just learn, i also teach.
@@ -87,26 +79,6 @@ Make people stop memorizing and start thinking.
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-pauferro-b943a2282/)  
 - 📸 [Instagram](https://www.instagram.com/edson_da_matematica)  
 - 🛡️ [TryHackMe](https://tryhackme.com/p/Edsonmatematico)  
-
----
-
-## ⚒️ Tech Stack
-
-- **Languages:** Python, TypeScript, C, PHP and Shell script 
-- **Backend:** Laravel, Node.js  
-- **Frontend:** React (Vite), PHP 
-- **Database:** PostgreSQL  
-- **Security Tools:** Wireshark, Metasploit, Burp Suite, ffuf and others
-- **Environment:** Linux  
-
----
-
-## 📜 Certifications
-
-- Cisco Cyber Threat Management  
-- TryHackMe Junior Pentester  
-- TryHackMe Web Application Pentesting  
-- TryHackMe Web Fundamentals  
 
 ---
 
