@@ -64,6 +64,9 @@ Make people stop memorizing and start thinking.
 - [Lawliet Forensics](https://github.com/NicolasPauferro/lawliet-forensics)  
   → Custom file carver for recovering hidden files from raw storage  
 
+- [SupaRipper](https://github.com/NicolasPauferro/SupaRipper)
+  → A Supabase Data Extractor against VibeCoders
+
 - [Bangu Shopping CTF](https://github.com/NicolasPauferro/Bangu-Shopping-CTF)  
   → My first CTF challenge (built while learning PHP)  
 
