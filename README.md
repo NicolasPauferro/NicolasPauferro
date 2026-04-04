@@ -85,12 +85,15 @@ Make people stop memorizing and start thinking.
 
 ---
 
+
+
+
 <div align="center">
-<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPauferro&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github Stats"
-      />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NicolasPauferro&layout=compact&theme=tokyonight&hide_border=false" width="400" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NicolasPauferro&show_icons=true&theme=tokyonight&hide_border=false&title_color=7C3AED&icon_color=7C3AED" alt="Estatísticas Gerais" />
 </div>
 
 ---
