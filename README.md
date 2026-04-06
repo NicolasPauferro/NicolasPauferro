@@ -93,6 +93,11 @@ Make people stop memorizing and start thinking.
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NicolasPauferro&show_icons=true&theme=tokyonight&hide_border=false&title_color=7C3AED&icon_color=7C3AED" alt="Estatísticas Gerais" />
 </div>
 
+<p align="center">
+   <a href="#">
+    <img src="https://api.visitorbadge.io/api/VisitorHit?user=NicolasPauferro&repo=github-visitors-badge&countColor=%237B1E7A">
+   </a>
+</p>
 ---
 
 <picture>
