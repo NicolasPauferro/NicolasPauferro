@@ -62,7 +62,10 @@ Make people stop memorizing and start thinking.
 ## 🔥 Projects
 
 - [Lawliet Forensics](https://github.com/NicolasPauferro/lawliet-forensics)  
-  → Custom file carver for recovering hidden files from raw storage  
+  → Custom file carver for recovering hidden files from raw storage
+
+- [SupaRipper](https://github.com/NicolasPauferro/SupaRipper)  
+  → A Supabase Data Extractor written in Shell Script 
 
 - [Bangu Shopping CTF](https://github.com/NicolasPauferro/Bangu-Shopping-CTF)  
   → My first CTF challenge (built while learning PHP)  
